@@ -1,0 +1,7 @@
+name: JoinMe
+version: 1.0
+author: RCCDevelopment
+main: net.rccdevelopment.joinme.JoinMe
+commands:
+   tokens:
+   joinme:
